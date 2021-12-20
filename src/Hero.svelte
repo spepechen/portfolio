@@ -60,6 +60,7 @@ a{
     border-bottom: 3px solid;
     border-image: linear-gradient(to left, rgb(255,249,248) 1%, rgb(255,152,114)100%);
     border-image-slice: 1;
+    -webkit-border-image:linear-gradient(to left, rgb(255,249,248) 1%, rgb(255,152,114)100%);
 }
 
 .contact{
