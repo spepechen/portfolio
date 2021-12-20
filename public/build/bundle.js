@@ -774,7 +774,7 @@ var app = (function () {
     				each_blocks[i].c();
     			}
 
-    			attr_dev(section, "class", "archive svelte-11epix0");
+    			attr_dev(section, "class", "archive svelte-12vknop");
     			add_location(section, file$5, 19, 0, 548);
     		},
     		m: function mount(target, anchor) {
@@ -866,12 +866,12 @@ var app = (function () {
     			a = element("a");
     			t2 = text(t2_value);
     			t3 = space();
-    			attr_dev(p0, "class", "date svelte-11epix0");
+    			attr_dev(p0, "class", "date svelte-12vknop");
     			add_location(p0, file$5, 21, 1, 638);
     			attr_dev(a, "href", a_href_value = /*item*/ ctx[3].link);
-    			attr_dev(a, "class", "svelte-11epix0");
+    			attr_dev(a, "class", "svelte-12vknop");
     			add_location(a, file$5, 23, 8, 710);
-    			attr_dev(p1, "class", "svelte-11epix0");
+    			attr_dev(p1, "class", "svelte-12vknop");
     			add_location(p1, file$5, 22, 4, 698);
     		},
     		m: function mount(target, anchor) {
@@ -950,10 +950,10 @@ var app = (function () {
     			attr_dev(svg, "stroke-width", "2");
     			attr_dev(svg, "viewBox", "0 0 24 24");
     			attr_dev(svg, "stroke", "currentColor");
-    			attr_dev(svg, "class", "svelte-11epix0");
+    			attr_dev(svg, "class", "svelte-12vknop");
     			add_location(svg, file$5, 9, 4, 196);
     			attr_dev(button, "aria-expanded", /*isOpen*/ ctx[1]);
-    			attr_dev(button, "class", "svelte-11epix0");
+    			attr_dev(button, "class", "svelte-12vknop");
     			add_location(button, file$5, 8, 0, 142);
     		},
     		l: function claim(nodes) {
@@ -1733,7 +1733,7 @@ var app = (function () {
     	let t1;
     	let em;
     	let t3;
-    	let div1;
+    	let div2;
     	let p;
     	let t4;
     	let span1;
@@ -1743,8 +1743,7 @@ var app = (function () {
     	let div0;
     	let a0;
     	let t10;
-    	let br;
-    	let t11;
+    	let div1;
     	let a1;
 
     	const block = {
@@ -1757,7 +1756,7 @@ var app = (function () {
     			em = element("em");
     			em.textContent = "\"special\"";
     			t3 = space();
-    			div1 = element("div");
+    			div2 = element("div");
     			p = element("p");
     			t4 = text("I design, code, and crunch data for storytelling at The Straits Times ");
     			span1 = element("span");
@@ -1770,32 +1769,32 @@ var app = (function () {
     			a0 = element("a");
     			a0.textContent = "spepe.chen_at_gmail.com";
     			t10 = space();
-    			br = element("br");
-    			t11 = space();
+    			div1 = element("div");
     			a1 = element("a");
     			a1.textContent = "@spepechen";
     			add_location(em, file$2, 7, 63, 152);
-    			attr_dev(span0, "class", "note svelte-1w9os7i");
+    			attr_dev(span0, "class", "note svelte-12669gl");
     			add_location(span0, file$2, 7, 8, 97);
-    			attr_dev(h1, "class", "svelte-1w9os7i");
+    			attr_dev(h1, "class", "svelte-12669gl");
     			add_location(h1, file$2, 5, 4, 51);
-    			attr_dev(span1, "class", "emoji svelte-1w9os7i");
+    			attr_dev(span1, "class", "emoji svelte-12669gl");
     			add_location(span1, file$2, 11, 78, 304);
-    			attr_dev(span2, "class", "emoji svelte-1w9os7i");
+    			attr_dev(span2, "class", "emoji svelte-12669gl");
     			add_location(span2, file$2, 11, 138, 364);
-    			attr_dev(p, "class", "svelte-1w9os7i");
+    			attr_dev(p, "class", "svelte-12669gl");
     			add_location(p, file$2, 10, 8, 208);
     			attr_dev(a0, "href", "");
-    			attr_dev(a0, "class", "svelte-1w9os7i");
-    			add_location(a0, file$2, 14, 12, 461);
-    			add_location(br, file$2, 14, 51, 500);
-    			attr_dev(a1, "href", "https://twitter.com/spepechen");
-    			attr_dev(a1, "class", "svelte-1w9os7i");
-    			add_location(a1, file$2, 14, 56, 505);
-    			attr_dev(div0, "class", "contact svelte-1w9os7i");
+    			attr_dev(a0, "class", "svelte-12669gl");
+    			add_location(a0, file$2, 14, 12, 462);
+    			attr_dev(div0, "class", "contact svelte-12669gl");
     			add_location(div0, file$2, 13, 8, 427);
-    			add_location(div1, file$2, 9, 4, 192);
-    			attr_dev(section, "class", "project svelte-1w9os7i");
+    			attr_dev(a1, "href", "https://twitter.com/spepechen");
+    			attr_dev(a1, "class", "svelte-12669gl");
+    			add_location(a1, file$2, 17, 12, 559);
+    			attr_dev(div1, "class", "contact svelte-12669gl");
+    			add_location(div1, file$2, 16, 8, 524);
+    			add_location(div2, file$2, 9, 4, 192);
+    			attr_dev(section, "class", "project svelte-12669gl");
     			add_location(section, file$2, 4, 0, 21);
     		},
     		l: function claim(nodes) {
@@ -1809,19 +1808,18 @@ var app = (function () {
     			append_dev(span0, t1);
     			append_dev(span0, em);
     			append_dev(section, t3);
-    			append_dev(section, div1);
-    			append_dev(div1, p);
+    			append_dev(section, div2);
+    			append_dev(div2, p);
     			append_dev(p, t4);
     			append_dev(p, span1);
     			append_dev(p, t6);
     			append_dev(p, span2);
-    			append_dev(div1, t8);
-    			append_dev(div1, div0);
+    			append_dev(div2, t8);
+    			append_dev(div2, div0);
     			append_dev(div0, a0);
-    			append_dev(div0, t10);
-    			append_dev(div0, br);
-    			append_dev(div0, t11);
-    			append_dev(div0, a1);
+    			append_dev(div2, t10);
+    			append_dev(div2, div1);
+    			append_dev(div1, a1);
     		},
     		p: noop,
     		i: noop,

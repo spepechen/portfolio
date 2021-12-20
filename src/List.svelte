@@ -78,9 +78,11 @@ section {
 
 
 a{
-    border-bottom: 3px solid;
+    border-bottom: 3px rgb(102,205,170, 0.6)  solid;
+
+    /* border-bottom: 3px solid;
     border-image: linear-gradient(to left, rgb(255,249,248) 1%, rgb(255,152,114)100%);
-    border-image-slice: 1;
+    border-image-slice: 1; */
 }
 
 p{

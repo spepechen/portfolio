@@ -11,9 +11,14 @@
         <p>              
         I design, code, and crunch data for storytelling at The Straits Times <span class='emoji'>🇸🇬</span>. Past stint in newsrooms in <span class='emoji'>🇹🇼 🇺🇸 🇨🇳</span>
         </p>
-        <div class="contact">
-            <a href="">spepe.chen_at_gmail.com</a> <br> <a href="https://twitter.com/spepechen"> @spepechen </a>
+        <div class="contact"> 
+            <a href="">spepe.chen_at_gmail.com</a>
         </div>
+        <div class="contact"> 
+            <a href="https://twitter.com/spepechen"> @spepechen </a>
+        </div>
+
+
     </div>
 </section>
 
@@ -57,10 +62,12 @@ span.note{
 }
 
 a{
-    border-bottom: 3px solid;
+    border-bottom: 3px rgb(102,205,170, 0.6)  solid;
+    /* NOT WORKING IN SAFARI */
+    /* border-bottom: 3px solid;
     border-image: linear-gradient(to left, rgb(255,249,248) 1%, rgb(255,152,114)100%);
     border-image-slice: 1;
-    -webkit-border-image:linear-gradient(to left, rgb(255,249,248) 1%, rgb(255,152,114)100%);
+    -webkit-border-image:linear-gradient(to left, rgb(255,249,248) 1%, rgb(255,152,114)100%); */
 }
 
 .contact{
@@ -68,6 +75,7 @@ a{
     font-weight: 300; */
     font-family: 'Lato', sans-serif;
     font-size: 1rem;
+    padding: 0.25rem;
 }
 
 .contact > a{
