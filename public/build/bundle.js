@@ -1945,7 +1945,19 @@ var app = (function () {
     	}
     }
 
-    var rawData = [ { pubDate:"2021/10/30",
+    var rawData = [ { pubDate:"2021/12/27",
+        publication:"Straits Times",
+        org:"Straits Times",
+        featured:"1",
+        headlineEn:"Meet Gen Covid",
+        headlineEnShort:"Meet Gen Covid",
+        tag:"",
+        headlineCh:"",
+        link:"https://www.straitstimes.com/multimedia/graphics/2021/12/covid19-asia-children-youth/index.html",
+        imgLink:"https://raw.githubusercontent.com/spepechen/spepechen.github.io/master/img/gen-covid.gif",
+        award:"",
+        note:"It's a fulfilling moment to work on art direction, layout, illustration, storyboarding and video editing altogether for a lovely year-end project.  " },
+      { pubDate:"2021/10/30",
         publication:"Straits Times",
         org:"Straits Times",
         featured:"1",
