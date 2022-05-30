@@ -1882,7 +1882,7 @@ var app = (function () {
     			t0 = space();
     			footer = element("footer");
     			p = element("p");
-    			p.textContent = "Updated on Dec 20, 2021";
+    			p.textContent = "Updated on May 30, 2022";
     			add_location(hr, file$1, 0, 0, 0);
     			attr_dev(p, "class", "svelte-rx4l8g");
     			add_location(p, file$1, 2, 4, 18);
