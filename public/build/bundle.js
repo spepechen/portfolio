@@ -1253,18 +1253,18 @@ var app = (function () {
     			attr_dev(img, "alt", "");
     			add_location(img, file$3, 14, 21, 372);
     			attr_dev(a0, "href", a0_href_value = /*d*/ ctx[3].link);
-    			attr_dev(a0, "class", "svelte-193l882");
+    			attr_dev(a0, "class", "svelte-rhl0c6");
     			add_location(a0, file$3, 13, 20, 333);
     			attr_dev(a1, "href", a1_href_value = /*d*/ ctx[3].link);
-    			attr_dev(a1, "class", "svelte-193l882");
+    			attr_dev(a1, "class", "svelte-rhl0c6");
     			add_location(a1, file$3, 19, 28, 518);
-    			attr_dev(h3, "class", "svelte-193l882");
+    			attr_dev(h3, "class", "svelte-rhl0c6");
     			add_location(h3, file$3, 18, 24, 485);
-    			attr_dev(figcaption, "class", "svelte-193l882");
+    			attr_dev(figcaption, "class", "svelte-rhl0c6");
     			add_location(figcaption, file$3, 17, 21, 448);
-    			attr_dev(figure, "class", "svelte-193l882");
+    			attr_dev(figure, "class", "svelte-rhl0c6");
     			add_location(figure, file$3, 12, 16, 304);
-    			attr_dev(p, "class", "svelte-193l882");
+    			attr_dev(p, "class", "svelte-rhl0c6");
     			add_location(p, file$3, 25, 16, 723);
     			add_location(li, file$3, 11, 12, 267);
     		},
@@ -1459,7 +1459,7 @@ var app = (function () {
     			div = element("div");
     			t0 = text(t0_value);
     			t1 = space();
-    			attr_dev(div, "class", "tag svelte-193l882");
+    			attr_dev(div, "class", "tag svelte-rhl0c6");
     			add_location(div, file$3, 33, 28, 1054);
     		},
     		m: function mount(target, anchor) {
@@ -1498,7 +1498,7 @@ var app = (function () {
     			span = element("span");
     			t0 = text("🎖️ ");
     			t1 = text(t1_value);
-    			attr_dev(span, "class", "award svelte-193l882");
+    			attr_dev(span, "class", "award svelte-rhl0c6");
     			add_location(span, file$3, 28, 24, 840);
     		},
     		m: function mount(target, anchor) {
@@ -1591,7 +1591,7 @@ var app = (function () {
     				each_blocks[i].c();
     			}
 
-    			attr_dev(ul, "class", "project svelte-193l882");
+    			attr_dev(ul, "class", "project svelte-rhl0c6");
     			add_location(ul, file$3, 8, 0, 153);
     		},
     		l: function claim(nodes) {
@@ -1945,10 +1945,34 @@ var app = (function () {
     	}
     }
 
-    var rawData = [ { pubDate:"2021/12/27",
+    var rawData = [ { pubDate:"2022/5/8",
         publication:"Straits Times",
         org:"Straits Times",
         featured:"1",
+        headlineEn:"How the Russia-Ukraine war is making your plate of orh luak more expensive",
+        headlineEnShort:"How the Russia-Ukraine war is making your plate of orh luak more expensive",
+        tag:"",
+        headlineCh:"",
+        link:"https://www.straitstimes.com/multimedia/graphics/2022/05/russia-ukraine-war-singapore-hawker-prices-orh-luak/index.html",
+        imgLink:"https://raw.githubusercontent.com/spepechen/spepechen.github.io/master/img/eggv2.jpg",
+        award:"",
+        note:"I had so much Premiere, AE fun when editing the scrumptious shots by talented video colleagues! This is also a rare chance for me to work on storyboarding for filming. " },
+      { pubDate:"2022/1/30",
+        publication:"Straits Times",
+        org:"Straits Times",
+        featured:"1",
+        headlineEn:"Singapore Salary Guide 2021",
+        headlineEnShort:"Singapore Salary Guide 2021",
+        tag:"",
+        headlineCh:"",
+        link:"https://www.straitstimes.com/multimedia/graphics/2022/01/singapore-salary-guide/index.html",
+        imgLink:"https://raw.githubusercontent.com/spepechen/spepechen.github.io/master/img/salary.gif",
+        award:"",
+        note:"My most popular data viz interactive™️" },
+      { pubDate:"2021/12/27",
+        publication:"Straits Times",
+        org:"Straits Times",
+        featured:"",
         headlineEn:"Meet Gen Covid",
         headlineEnShort:"Meet Gen Covid",
         tag:"",
@@ -1967,7 +1991,7 @@ var app = (function () {
         headlineCh:"",
         link:"https://www.straitstimes.com/multimedia/graphics/2021/10/covid19-5million-deaths/index.html",
         imgLink:"https://spepechen.github.io/img/covid-flowers.png",
-        award:"",
+        award:"SND 43 - Award of Excellence",
         note:"Breaking emotional numbness towards the pandemic's toll with floral data viz. It was my first time experimenting with the combination of Arquero, D3 and Observable." },
       { pubDate:"2021/10/17",
         publication:"Straits Times",
@@ -1991,7 +2015,7 @@ var app = (function () {
         headlineCh:"",
         link:"https://www.straitstimes.com/multimedia/graphics/2021/07/joseph-schooling-champions-challenge/index.html",
         imgLink:"https://spepechen.github.io/img/schooling.jpg",
-        award:"",
+        award:"SND 43 - Award of Excellence",
         note:"Take a deep dive into Singapore's first-ever Olympics gold medalist's butterfly technique with visual annotations and video commentaries from the swimmer and the national coach." },
       { pubDate:"2021/5/5",
         publication:"Straits Times",
@@ -2021,8 +2045,8 @@ var app = (function () {
         publication:"Straits Times",
         org:"Straits Times",
         featured:"",
-        headlineEn:"Covid-19: Tracking the global race to vaccinate\r",
-        headlineEnShort:"Covid-19: Tracking the global race to vaccinate\r",
+        headlineEn:"Covid-19: Tracking the global race to vaccinate\r\n",
+        headlineEnShort:"Covid-19: Tracking the global race to vaccinate\r\n",
         tag:"",
         headlineCh:"",
         link:"https://www.straitstimes.com/multimedia/graphics/2021/02/covid-vaccine-rollout/index.html?stextension",
@@ -2033,8 +2057,8 @@ var app = (function () {
         publication:"Straits Times",
         org:"Straits Times",
         featured:"",
-        headlineEn:"The Great Singapore Cycle\r",
-        headlineEnShort:"The Great Singapore Cycle\r",
+        headlineEn:"The Great Singapore Cycle\r\n",
+        headlineEnShort:"The Great Singapore Cycle\r\n",
         tag:"",
         headlineCh:"",
         link:"https://www.straitstimes.com/multimedia/graphics/2021/02/great-singapore-cycle/index.html",
