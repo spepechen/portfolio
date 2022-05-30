@@ -9,7 +9,7 @@
     </h1>
     <div>  
         <p>              
-        I design, code, and crunch data for storytelling at The Straits Times <span class='emoji'>🇸🇬</span>. Past stint in newsrooms in <span class='emoji'>🇹🇼 🇺🇸 🇨🇳</span>
+        I design, code, and crunch data for storytelling. Past stint in newsrooms in <span class='emoji'>🇸🇬 🇨🇳 🇺🇸 🇹🇼 </span>
         </p>
         <div class="contact"> 
             <a href="">spepe.chen_at_gmail.com</a>
