@@ -1,6 +1,6 @@
 <hr>
 <footer>
-    <p>Updated on Dec 20, 2021</p>
+    <p>Updated on May 30, 2022</p>
 </footer>
 
 <style>
